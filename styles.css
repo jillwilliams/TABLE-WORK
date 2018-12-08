@@ -1,0 +1,99 @@
+body {
+    background-color: rgb(0,102,51);
+    /* hunter green */
+}
+h1 {
+    font-size: 200%;
+    text-align: center;
+    text-decoration: underline;
+    color: tan;
+}
+#table1 {
+    border: 3px black solid;
+    border-collapse: collapse;
+    background-color: powderblue;
+    padding: 8px;
+    width: 100%;
+}
+#r2c1, #r3c1, #r4c1, #r5c1 {
+    background-color: tan;
+    font-size: 200%;
+    color: rgb(0,102,51);
+    /* hunter green */
+    padding: 5px;
+}
+.row1 {
+    font-size: 150%;
+    color: rgb(0,102,51);
+    /* hunter green */
+    background-color: tan ;
+    padding: 8px;
+    width: 100%;
+    text-align: center;
+}
+/* Fish Pictures background */
+#r2c9_10, #r3c2_4, #r3c10_13, #r4c2_13, #r5c2_13 {
+    background-color: white;
+    border: 1px black solid;
+}
+.row2 {
+    font-size: 100%;
+    color: black;
+    text-align: center;
+}
+.row3 {
+    font-size: 100%;
+    color: black;
+    text-align: center;
+}
+.row4 {
+    font-size: 100%;
+    color: rgb(189,183,107);
+    /* dark khaki */
+    text-align: center;
+}
+.row5 {
+    font-size: 100%;
+    color: rgb(189,183,107);
+    /* dark khaki */
+    text-align: center;
+}
+/* input field #1 */
+#input1 {
+    border: 5px black solid;
+    width: 60%;
+    height: 80px;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 200%;
+    color: blue;
+    background-color: tan;
+    outline: 5px red solid;
+}
+/* SUBMIT BUTTON */
+#myBtn {
+    font-size: 150%;
+    color: rgb(0,102,51);
+    background-color: white;
+    border: 5px black solid;
+    outline: 5px tan solid;
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    text-align: center;
+}
+/* Answer textfield */
+#demo1 {
+    border: 5px black solid;
+    outline: 5px red solid;
+    font-size: 200%;
+    color: blue;
+    width: 60%;
+    height: 80px;
+    text-align: center;
+    background-color: tan;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
